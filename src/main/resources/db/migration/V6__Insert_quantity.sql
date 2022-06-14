@@ -1,0 +1,10 @@
+INSERT INTO `store_items` VALUES (1,2);
+INSERT INTO `store_items` VALUES (2,2);
+INSERT INTO `store_items` VALUES (3,10);
+INSERT INTO `store_items` VALUES (4,4);
+INSERT INTO `store_items` VALUES (5,8);
+INSERT INTO `store_items` VALUES (6,7);
+INSERT INTO `store_items` VALUES (7,1);
+INSERT INTO `store_items` VALUES (8,5);
+INSERT INTO `store_items` VALUES (9,9);
+INSERT INTO `store_items` VALUES (10,3);
